@@ -1,0 +1,101 @@
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 16, 2025, 11:24:53 AM	var/zk/version-2/snapshot.0
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 16, 2025, 11:53:39 AM	var/zk/version-2/log.1
+Removing file: Sep 17, 2025, 5:56:24 AM	var/zk/version-2/snapshot.52
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 6:25:34 AM	var/zk/version-2/log.53
+Removing file: Sep 17, 2025, 6:34:08 AM	var/zk/version-2/snapshot.192
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 7:50:05 AM	var/zk/version-2/log.193
+Removing file: Sep 17, 2025, 7:50:20 AM	var/zk/version-2/snapshot.2b0
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 8:21:33 AM	var/zk/version-2/log.2b1
+Removing file: Sep 17, 2025, 9:02:00 AM	var/zk/version-2/snapshot.30b
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 10:03:42 AM	var/zk/version-2/snapshot.0
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 10:07:40 AM	var/zk/version-2/log.1
+Removing file: Sep 17, 2025, 10:27:40 AM	var/zk/version-2/snapshot.1a
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 10:28:12 AM	var/zk/version-2/log.1b
+Removing file: Sep 17, 2025, 10:29:53 AM	var/zk/version-2/snapshot.27
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 10:33:56 AM	var/zk/version-2/log.28
+Removing file: Sep 17, 2025, 10:40:05 AM	var/zk/version-2/snapshot.36
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 11:05:22 AM	var/zk/version-2/log.37
+Removing file: Sep 17, 2025, 11:07:57 AM	var/zk/version-2/snapshot.51
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 11:12:00 AM	var/zk/version-2/log.52
+Removing file: Sep 17, 2025, 11:27:33 AM	var/zk/version-2/snapshot.60
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 11:27:53 AM	var/zk/version-2/log.61
+Removing file: Sep 17, 2025, 12:00:18 PM	var/zk/version-2/snapshot.6f
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 12:04:14 PM	var/zk/version-2/log.70
+Removing file: Sep 17, 2025, 12:10:40 PM	var/zk/version-2/snapshot.7b
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 12:14:44 PM	var/zk/version-2/log.7c
+Removing file: Sep 17, 2025, 12:15:20 PM	var/zk/version-2/snapshot.89
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 12:21:37 PM	var/zk/version-2/log.8a
+Removing file: Sep 17, 2025, 12:31:11 PM	var/zk/version-2/snapshot.c2
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 12:31:49 PM	var/zk/version-2/log.c3
+Removing file: Sep 17, 2025, 12:40:46 PM	var/zk/version-2/snapshot.d9
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 12:41:26 PM	var/zk/version-2/log.da
+Removing file: Sep 17, 2025, 12:45:06 PM	var/zk/version-2/snapshot.e9
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 12:46:11 PM	var/zk/version-2/log.ea
+Removing file: Sep 17, 2025, 12:48:27 PM	var/zk/version-2/snapshot.108
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 1:05:41 PM	var/zk/version-2/log.109
+Removing file: Sep 17, 2025, 1:15:11 PM	var/zk/version-2/snapshot.153
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 17, 2025, 1:15:28 PM	var/zk/version-2/log.154
+Removing file: Sep 18, 2025, 6:09:31 AM	var/zk/version-2/snapshot.167
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 6:38:43 AM	var/zk/version-2/log.168
+Removing file: Sep 18, 2025, 6:51:10 AM	var/zk/version-2/snapshot.1a6
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 7:08:49 AM	var/zk/version-2/log.1a7
+Removing file: Sep 18, 2025, 7:08:56 AM	var/zk/version-2/snapshot.1d9
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 7:29:25 AM	var/zk/version-2/log.1da
+Removing file: Sep 18, 2025, 7:29:32 AM	var/zk/version-2/snapshot.20c
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 7:40:48 AM	var/zk/version-2/log.20d
+Removing file: Sep 18, 2025, 7:41:10 AM	var/zk/version-2/snapshot.23f
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 8:04:27 AM	var/zk/version-2/log.240
+Removing file: Sep 18, 2025, 8:04:55 AM	var/zk/version-2/snapshot.272
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 8:07:08 AM	var/zk/version-2/log.273
+Removing file: Sep 18, 2025, 8:20:35 AM	var/zk/version-2/snapshot.2c4
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 8:27:16 AM	var/zk/version-2/log.2c5
+Removing file: Sep 18, 2025, 8:34:51 AM	var/zk/version-2/snapshot.318
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 8:56:44 AM	var/zk/version-2/log.319
+Removing file: Sep 18, 2025, 9:30:03 AM	var/zk/version-2/snapshot.36c
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 10:02:24 AM	var/zk/version-2/log.36d
+Removing file: Sep 18, 2025, 10:04:36 AM	var/zk/version-2/snapshot.3aa
+Running [ZooKeeper], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/zookeeper.log] if no changes made to log4j2.xml
+Removing file: Sep 18, 2025, 10:15:16 AM	var/zk/version-2/log.3ab
+Removing file: Sep 18, 2025, 10:17:56 AM	var/zk/version-2/snapshot.3fd

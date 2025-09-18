@@ -1,0 +1,35 @@
+{
+  "type": "index_parallel",
+  "spec": {
+    "ioConfig": {
+      "type": "index_parallel",
+      "inputSource": {
+        "type": "local",
+        "baseDir": "/home/Azureuser/datacartel/apache-druid-34.0.0/druid-ingestion",
+        "filter": "sample_data.csv"
+      },
+      "inputFormat": {
+        "type": "csv",
+        "findColumnsFromHeader": true
+      }
+    },
+    "dataSchema": {
+      "dataSource": "data_to_Azure_with_SAS",
+      "timestampSpec": {
+        "column": "event_time",
+        "format": "iso"
+      },
+      "dimensionsSpec": {
+        "dimensions": ["id", "name", "age", "city"]
+      },
+      "granularitySpec": {
+        "type": "uniform",
+        "segmentGranularity": "day",
+        "queryGranularity": "none"
+      }
+    },
+    "tuningConfig": {
+      "type": "index_parallel"
+    }
+  }
+}

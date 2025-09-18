@@ -1,0 +1,210 @@
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Exception in thread "main" org.apache.druid.java.util.common.ISE: Extension [/home/Azureuser/datacartel/apache-druid-34.0.0/extensions/druid-indexing-service] specified in "druid.extensions.loadList" didn't exist!?
+	at org.apache.druid.guice.ExtensionsLoader.initializeExtensionFilesToLoad(ExtensionsLoader.java:207)
+	at org.apache.druid.guice.ExtensionsLoader.getExtensionFilesToLoad(ExtensionsLoader.java:222)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.addAllFromFileSystem(ExtensionsLoader.java:439)
+	at org.apache.druid.guice.ExtensionsLoader$ServiceLoadingFromExtensions.<init>(ExtensionsLoader.java:427)
+	at org.apache.druid.guice.ExtensionsLoader.lambda$getFromExtensions$0(ExtensionsLoader.java:162)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1220)
+	at org.apache.druid.guice.ExtensionsLoader.getFromExtensions(ExtensionsLoader.java:160)
+	at org.apache.druid.cli.Main.main(Main.java:98)
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
+Running [router], logging to [/home/Azureuser/datacartel/apache-druid-34.0.0/bin/../log/router.log] if no changes made to log4j2.xml
