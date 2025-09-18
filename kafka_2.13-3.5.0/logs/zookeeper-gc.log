@@ -1,0 +1,24 @@
+[2025-09-18T10:17:25.366+0000][gc] Using G1
+[2025-09-18T10:17:25.372+0000][gc,init] Version: 17.0.16+8-Ubuntu-0ubuntu124.04.1 (release)
+[2025-09-18T10:17:25.372+0000][gc,init] CPUs: 4 total, 4 available
+[2025-09-18T10:17:25.372+0000][gc,init] Memory: 15944M
+[2025-09-18T10:17:25.372+0000][gc,init] Large Page Support: Disabled
+[2025-09-18T10:17:25.372+0000][gc,init] NUMA Support: Disabled
+[2025-09-18T10:17:25.372+0000][gc,init] Compressed Oops: Enabled (32-bit)
+[2025-09-18T10:17:25.372+0000][gc,init] Heap Region Size: 1M
+[2025-09-18T10:17:25.372+0000][gc,init] Heap Min Capacity: 512M
+[2025-09-18T10:17:25.372+0000][gc,init] Heap Initial Capacity: 512M
+[2025-09-18T10:17:25.372+0000][gc,init] Heap Max Capacity: 512M
+[2025-09-18T10:17:25.372+0000][gc,init] Pre-touch: Disabled
+[2025-09-18T10:17:25.372+0000][gc,init] Parallel Workers: 4
+[2025-09-18T10:17:25.372+0000][gc,init] Concurrent Workers: 1
+[2025-09-18T10:17:25.372+0000][gc,init] Concurrent Refinement Workers: 4
+[2025-09-18T10:17:25.372+0000][gc,init] Periodic GC: Disabled
+[2025-09-18T10:17:25.380+0000][gc,metaspace] CDS archive(s) mapped at: [0x0000770fd7000000-0x0000770fd7bca000-0x0000770fd7bca000), size 12361728, SharedBaseAddress: 0x0000770fd7000000, ArchiveRelocationMode: 1.
+[2025-09-18T10:17:25.380+0000][gc,metaspace] Compressed class space mapped at: 0x0000770fd8000000-0x0000771018000000, reserved size: 1073741824
+[2025-09-18T10:17:25.403+0000][gc,metaspace] Narrow klass base: 0x0000770fd7000000, Narrow klass shift: 0, Narrow klass range: 0x100000000
+[2025-09-18T10:17:31.678+0000][gc,heap,exit] Heap
+[2025-09-18T10:17:31.678+0000][gc,heap,exit]  garbage-first heap   total 524288K, used 13748K [0x00000000e0000000, 0x0000000100000000)
+[2025-09-18T10:17:31.678+0000][gc,heap,exit]   region size 1024K, 13 young (13312K), 0 survivors (0K)
+[2025-09-18T10:17:31.678+0000][gc,heap,exit]  Metaspace       used 5184K, committed 5376K, reserved 1114112K
+[2025-09-18T10:17:31.678+0000][gc,heap,exit]   class space    used 566K, committed 640K, reserved 1048576K

@@ -1,0 +1,30 @@
+import json
+import random
+import time
+from kafka import KafkaProducer
+
+# Initialize Kafka producer
+producer = KafkaProducer(
+    bootstrap_servers='localhost:9092',
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
+
+# Sample areas
+areas = ['Delhi', 'Mumbai', 'Chennai', 'Kolkata', 'Bangalore']
+
+# Generate and send 100 messages
+for slno in range(1, 101):
+    data = {
+        'slno': slno,
+        'area': random.choice(areas),
+        'temp': round(random.uniform(20.0, 45.0), 2),       # Temperature in Celsius
+        'humidity': round(random.uniform(30.0, 90.0), 2)    # Humidity in %
+    }
+
+    # Send to Kafka topic
+    producer.send('test-topic', value=data)
+    print(f"Sent: {data}")
+    time.sleep(0.5)  # Simulate streaming delay
+
+producer.flush()
+producer.close()
